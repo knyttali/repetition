@@ -12,7 +12,7 @@ public final class App {
      * @param args The arguments of the program.
      */
     public static void main(String[] args) {
-        TaFramTecken ta = new TaFramTecken();
-        ta.run();
+        Initialer in = new Initialer();
+        in.run();
     }
 }
