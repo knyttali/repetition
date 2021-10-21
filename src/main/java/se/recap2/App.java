@@ -12,7 +12,7 @@ public final class App {
      * @param args The arguments of the program.
      */
     public static void main(String[] args) {
-        AntalOrd ord = new AntalOrd();
-        ord.run();
+        ReplaceAndCount rac = new ReplaceAndCount();
+        rac.run();
     }
 }
