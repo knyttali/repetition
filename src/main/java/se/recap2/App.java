@@ -12,7 +12,7 @@ public final class App {
      * @param args The arguments of the program.
      */
     public static void main(String[] args) {
-        printBox pr = new printBox();
-        pr.run();
+        Kod k = new Kod();
+        k.run();
     }
 }
